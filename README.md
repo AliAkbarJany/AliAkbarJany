@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Akbar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+https://avatars.githubusercontent.com/u/96829756?v=4
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliakbarjany&label=Profile%20views&color=0e75b6&style=flat" alt="aliakbarjany" /> </p>
 
